@@ -1,0 +1,23 @@
+# Abaikan virtual environment
+venv/
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Abaikan file lingkungan
+.env
+
+# Abaikan file sementara
+*.jpg
+*.png
+*.log
+*.sqlite3
+
+# Abaikan model besar (opsional, bisa diunggah manual ke cloud)
+*.h5
+*.tflite
+*.pyd
+*.lib
+*.dll
